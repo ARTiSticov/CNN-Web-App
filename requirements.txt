@@ -6,4 +6,4 @@ streamlit
 Pillow
 tensorflow
 keras
-h5py
+os
