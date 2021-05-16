@@ -175,7 +175,7 @@ scipy
 seaborn
 Send2Trash
 sentencepiece
-seqeval=
+seqeval
 setuptools
 sip
 six
