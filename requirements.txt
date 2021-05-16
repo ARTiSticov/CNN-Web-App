@@ -1,9 +1,0 @@
-pandas
-scikit-learn
-matplotlib
-numpy
-streamlit
-xgboost
-Pillow
-tensorflow
-h5py
