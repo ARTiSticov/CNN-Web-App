@@ -212,7 +212,7 @@ toml
 toolz
 torch
 torchvision
-tornado=
+tornado
 tqdm
 traitlets
 transformers
