@@ -3,7 +3,7 @@ import tensorflow as tf
 
 @st.cache(allow_output_mutation=True)
 def load_model():
-    model = tf.keras.models.load_model('C:/Users/ARTiS/streamlit-CNN/CNN_model.pb')
+    model = tf.keras.models.load_model('C:/Users/ARTiS/streamlit-CNN/CNN_model.hdf5')
     return model
 
 model = load_model()
